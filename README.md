@@ -1,4 +1,4 @@
-# 80s Computer Terminal Styled Web Page
+# 80s Computer Terminal
 
 This project creates a web page styled to look like an old 80s computer terminal. The page includes a simple interface with instructions and a button to generate advice.
 
